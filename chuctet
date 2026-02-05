@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Chúc Tết Nguyên Đán 2026</title>
+    <style>
+        body {
+            background-color: #fff3cd;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            background-color: #c62828;
+            color: #ffd700;
+            padding: 30px;
+            border-radius: 15px;
+        }
+
+        h1 {
+            font-size: 42px;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: #ffeb3b;
+            margin-top: 30px;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.8;
+            color: #fffde7;
+        }
+
+        img {
+            width: 60%;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        figcaption {
+            font-style: italic;
+            margin-top: 8px;
+            color: #fff9c4;
+        }
+
+        audio {
+            margin-top: 15px;
+        }
+
+        .tho {
+            background-color: #b71c1c;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+            font-size: 18px;
+        }
+
+        footer {
+            margin-top: 30px;
+            font-size: 16px;
+            color: #fff9c4;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>🎉 Chào Mừng Năm Mới 2026 🎉</h1>
+
+    <h2>🌸 Lời Chúc Tết Ý Nghĩa 🌸</h2>
+    <p>
+        Nhân dịp Tết Nguyên Đán 2026, kính chúc mọi người một năm mới
+        <br>an khang thịnh vượng, vạn sự như ý.
+        <br>Chúc gia đình luôn hạnh phúc, sum vầy và tràn đầy tiếng cười.
+        <br>Mong năm mới mang đến nhiều sức khỏe, thành công và bình an.
+    </p>
+
+    <h2>🧧 Thiệp Chúc Tết 🧧</h2>
+    <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Tet_holiday_card.jpg" alt="Thiệp Tết Nguyên Đán">
+        <figcaption>Thiệp Tết mang sắc xuân, chúc năm mới bình an và hạnh phúc</figcaption>
+    </figure>
+
+    <h2>🎶 Nhạc Xuân 🎶</h2>
+    <p>Bài hát: <b>Ngày Tết Quê Em</b></p>
+    <audio controls>
+        <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+        Trình duyệt của bạn không hỗ trợ audio.
+    </audio>
+
+    <h2>📜 Thơ Chúc Tết 📜</h2>
+    <div class="tho">
+        Xuân về rộn rã muôn nơi<br>
+        Chúc cho hạnh phúc đầy vơi ân tình<br>
+        Gia đình sum họp an bình<br>
+        Năm mới vạn sự lung linh sắc xuân
+    </div>
+
+    <footer>
+        🌺 Chúc Mừng Năm Mới 2026 – Xuân An Khang 🌺
+    </footer>
+</div>
+</body>
+</html>
